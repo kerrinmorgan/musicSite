@@ -1,0 +1,117 @@
+
+body {background: url(images/specialsbg4_C.jpg) no-repeat center fixed ;
+      background-size: cover;
+	  font-family: 'Anton', sans-serif;
+	  }
+
+h1 {  border: 1px solid black;
+      font-family: 'Coda Caption', sans-serif;
+      font-size: 100px;
+	  background-color: white;
+	  text-align: center;
+	  width: 50%;
+	  margin: auto;
+	  margin-bottom: 20px;
+	  
+	  }
+h2 { border: 1px solid black;
+     font-size: 35px;
+	 background-color: white;
+     float: top; 
+	 text-align: center;
+	 width: 50%;
+	 margin: auto;
+	 margin-bottom:20px;
+	   }	  
+
+
+
+		
+.footer {
+         float: bottom;
+	     border: 1px solid black;
+	     background-color: white;
+         text-align: center;
+		 width: 50%;
+	     margin: auto;
+		 }
+
+
+.nav {border: 1px solid black;
+	  background-color: white;
+      float: left;
+	  text-align: left;
+	  font-size: 18px;
+	  padding-right: 10px;
+	  
+      }
+.nav li {list-style-type: none;
+         margin-right: 10px;}	  
+
+.menu{border: 1px solid black;
+	  background-color: white;
+      text-align: right;
+	  float: right;
+	  font-size: 25px;
+	  padding-left:10px;
+	  padding-right: 10px;
+	  }
+
+.content{margin-top: 20px;
+         border: 1px solid black;
+         background-color: white;
+         margin: auto; 
+		 padding-left: 10px;
+		 max-width: 600px;
+		 margin-bottom: 20px;
+		 
+		
+	 }
+		 
+.content image {padding: 10px 10px 10px 10px;  }		 
+
+
+a {text-decoration: none;
+	    }
+				
+a:link {
+    color: grey;
+}
+
+
+a:visited {
+    color: grey;
+}
+
+
+a:hover {
+    color: red;
+}
+
+
+a:active {
+    color: blue;
+}
+
+
+.contenthome { border: 1px solid black;
+               background-color: white;
+               margin: auto; 
+		       padding: 10px 30px 30px 30px;
+		       max-width: 560px;
+			   margin-top:20px;
+			   margin-bottom: 20px;
+			   width: 50%;}
+			   
+.footercontent {border: 1px solid black;
+	           background-color: white;
+               text-align: center;
+		       width: 50%;
+	           margin: auto;
+			   margin-top:20px;}			   
+
+
+
+
+	 
+			  
